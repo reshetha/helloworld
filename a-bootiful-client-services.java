@@ -1,1 +1,0 @@
-msg=HELLO_WORLD
